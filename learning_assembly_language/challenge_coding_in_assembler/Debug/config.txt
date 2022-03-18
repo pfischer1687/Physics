@@ -1,0 +1,16 @@
+Slot 1:
+    Rotor hex: 037B9AD25E1F46C8
+    Rotor notch: F
+    Rotor number: 1
+    Start character: 0
+Slot 2:
+    Rotor hex: 732D168C4BA59E0F
+    Rotor notch: D
+    Rotor number: 3
+    Start character: 7
+Slot 3:
+    Rotor hex: F0C295D4AB8736E1
+    Rotor notch: 3
+    Rotor number: 5
+    Start character: F
+

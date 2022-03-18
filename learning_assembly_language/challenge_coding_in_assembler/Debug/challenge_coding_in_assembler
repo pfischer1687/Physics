@@ -1,0 +1,44 @@
+#ifdef APP_UNICODE
+	#undef APP_UNICODE
+#endif
+#ifdef UNICODE
+	#undef UNICODE
+#endif
+#ifdef DEBUG
+	#undef DEBUG
+#endif
+
+#ifdef RELEASE
+	#undef RELEASE
+#endif
+
+#define STRINGS ANSI
+
+#define TEXTA(x) x
+#define TEXTW(x) L##x
+#define TextStrA(x) x
+#define TextStrW(x) L##x
+#define TEXT(x) x
+#define TextStr(x) x
+#define DSS DB
+#define CHARSIZE 1
+#define DEBUG 1
+#define WIN64 1
+#define X64 1
+#define APP_WIN64 1
+NTDDI_VERSION equ 005010000H
+WINVER equ 005010000H
+
+#include "windows.h"
+
+#include "ECResFile.inc"
+#include "ECGoAsm64.asm"
+
+.data
+align 16
+
+.code
+align 16
+
+#include "challenge_coding_in_assembler.asm"
+

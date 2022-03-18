@@ -1,0 +1,432 @@
+Timestamp,Event,Event Data
+3:19:37 PM 10/8/2020,Boiler Initialized,0
+3:19:42 PM 10/8/2020,Boiler Ready,0
+3:19:44 PM 10/8/2020,Start Pre-Purge,0.10
+3:19:44 PM 10/8/2020,Start Pre-Purge,0.20
+3:19:44 PM 10/8/2020,Start Pre-Purge,0.30
+3:19:44 PM 10/8/2020,Start Pre-Purge,0.40
+3:19:44 PM 10/8/2020,Start Pre-Purge,0.50
+3:19:45 PM 10/8/2020,Start Pre-Purge,0.60
+3:19:45 PM 10/8/2020,Start Pre-Purge,0.70
+3:19:45 PM 10/8/2020,Start Pre-Purge,0.80
+3:19:45 PM 10/8/2020,Start Pre-Purge,0.90
+3:19:45 PM 10/8/2020,Start Pre-Purge,1.02
+3:19:45 PM 10/8/2020,Start Pre-Purge,1.12
+3:19:45 PM 10/8/2020,Start Pre-Purge,1.22
+3:19:45 PM 10/8/2020,Start Pre-Purge,1.32
+3:19:45 PM 10/8/2020,Start Pre-Purge,1.42
+3:19:45 PM 10/8/2020,Start Pre-Purge,1.52
+3:19:46 PM 10/8/2020,Start Pre-Purge,1.62
+3:19:46 PM 10/8/2020,Start Pre-Purge,1.72
+3:19:46 PM 10/8/2020,Start Pre-Purge,1.82
+3:19:46 PM 10/8/2020,Start Pre-Purge,1.92
+3:19:46 PM 10/8/2020,Start Pre-Purge,2.02
+3:19:46 PM 10/8/2020,Start Pre-Purge,2.12
+3:19:46 PM 10/8/2020,Start Pre-Purge,2.22
+3:19:46 PM 10/8/2020,Start Pre-Purge,2.32
+3:19:46 PM 10/8/2020,Start Pre-Purge,2.42
+3:19:46 PM 10/8/2020,Start Pre-Purge,2.52
+3:19:47 PM 10/8/2020,Start Pre-Purge,2.62
+3:19:47 PM 10/8/2020,Start Pre-Purge,2.72
+3:19:47 PM 10/8/2020,Start Pre-Purge,2.82
+3:19:47 PM 10/8/2020,Start Pre-Purge,2.92
+3:19:47 PM 10/8/2020,Start Pre-Purge,3.02
+3:19:47 PM 10/8/2020,Start Pre-Purge,3.12
+3:19:47 PM 10/8/2020,Start Pre-Purge,3.22
+3:19:47 PM 10/8/2020,Start Pre-Purge,3.33
+3:19:47 PM 10/8/2020,Start Pre-Purge,3.43
+3:19:47 PM 10/8/2020,Start Pre-Purge,3.52
+3:19:48 PM 10/8/2020,Start Pre-Purge,3.62
+3:19:48 PM 10/8/2020,Start Pre-Purge,3.73
+3:19:48 PM 10/8/2020,Start Pre-Purge,3.83
+3:19:48 PM 10/8/2020,Start Pre-Purge,3.93
+3:19:48 PM 10/8/2020,Start Pre-Purge,4.03
+3:19:48 PM 10/8/2020,Start Pre-Purge,4.13
+3:19:48 PM 10/8/2020,Start Pre-Purge,4.23
+3:19:48 PM 10/8/2020,Start Pre-Purge,4.33
+3:19:48 PM 10/8/2020,Start Pre-Purge,4.43
+3:19:48 PM 10/8/2020,Start Pre-Purge,4.53
+3:19:49 PM 10/8/2020,Start Pre-Purge,4.63
+3:19:49 PM 10/8/2020,Start Pre-Purge,4.73
+3:19:49 PM 10/8/2020,Start Pre-Purge,4.83
+3:19:49 PM 10/8/2020,Start Pre-Purge,4.93
+3:19:49 PM 10/8/2020,Start Pre-Purge,5.03
+3:19:49 PM 10/8/2020,Start Pre-Purge,5.13
+3:19:49 PM 10/8/2020,Start Pre-Purge,5.23
+3:19:49 PM 10/8/2020,Start Pre-Purge,5.33
+3:19:49 PM 10/8/2020,Start Pre-Purge,5.43
+3:19:49 PM 10/8/2020,Start Pre-Purge,5.53
+3:19:50 PM 10/8/2020,Start Pre-Purge,5.63
+3:19:50 PM 10/8/2020,Start Pre-Purge,5.73
+3:19:50 PM 10/8/2020,Start Pre-Purge,5.83
+3:19:50 PM 10/8/2020,Start Pre-Purge,5.93
+3:19:50 PM 10/8/2020,Start Pre-Purge,6.04
+3:19:50 PM 10/8/2020,Start Pre-Purge,6.14
+3:19:50 PM 10/8/2020,Start Pre-Purge,6.24
+3:19:50 PM 10/8/2020,Start Pre-Purge,6.34
+3:19:50 PM 10/8/2020,Start Pre-Purge,6.44
+3:19:50 PM 10/8/2020,Start Pre-Purge,6.54
+3:19:51 PM 10/8/2020,Start Pre-Purge,6.64
+3:19:51 PM 10/8/2020,Start Pre-Purge,6.75
+3:19:51 PM 10/8/2020,Start Pre-Purge,6.85
+3:19:51 PM 10/8/2020,Start Pre-Purge,6.95
+3:19:51 PM 10/8/2020,Start Pre-Purge,7.05
+3:19:51 PM 10/8/2020,Start Pre-Purge,7.15
+3:19:51 PM 10/8/2020,Start Pre-Purge,7.25
+3:19:51 PM 10/8/2020,Start Pre-Purge,7.35
+3:19:51 PM 10/8/2020,Start Pre-Purge,7.45
+3:19:51 PM 10/8/2020,Start Pre-Purge,7.55
+3:19:52 PM 10/8/2020,Start Pre-Purge,7.65
+3:19:52 PM 10/8/2020,Start Pre-Purge,7.75
+3:19:52 PM 10/8/2020,Start Pre-Purge,7.85
+3:19:52 PM 10/8/2020,Start Pre-Purge,7.95
+3:19:52 PM 10/8/2020,Start Pre-Purge,8.05
+3:19:52 PM 10/8/2020,Start Pre-Purge,8.15
+3:19:52 PM 10/8/2020,Start Pre-Purge,8.25
+3:19:52 PM 10/8/2020,Start Pre-Purge,8.35
+3:19:52 PM 10/8/2020,Start Pre-Purge,8.45
+3:19:52 PM 10/8/2020,Start Pre-Purge,8.56
+3:19:53 PM 10/8/2020,Start Pre-Purge,8.66
+3:19:53 PM 10/8/2020,Start Pre-Purge,8.76
+3:19:53 PM 10/8/2020,Start Pre-Purge,8.86
+3:19:53 PM 10/8/2020,Start Pre-Purge,8.96
+3:19:53 PM 10/8/2020,Start Pre-Purge,9.06
+3:19:53 PM 10/8/2020,Start Pre-Purge,9.16
+3:19:53 PM 10/8/2020,Start Pre-Purge,9.26
+3:19:53 PM 10/8/2020,Start Pre-Purge,9.36
+3:19:53 PM 10/8/2020,Start Pre-Purge,9.46
+3:19:53 PM 10/8/2020,Start Pre-Purge,9.56
+3:19:54 PM 10/8/2020,Start Pre-Purge,9.66
+3:19:54 PM 10/8/2020,Start Pre-Purge,9.76
+3:19:54 PM 10/8/2020,Start Pre-Purge,9.86
+3:19:54 PM 10/8/2020,Start Pre-Purge,9.96
+3:19:54 PM 10/8/2020,Start Pre-Purge,10.06
+3:19:54 PM 10/8/2020,Pre-Purge Complete,10.06
+3:20:00 PM 10/8/2020,Pilot ON,True
+3:20:04 PM 10/8/2020,Pilot Proved,47.90
+3:20:04 PM 10/8/2020,Pilot Proved,55.46
+3:20:04 PM 10/8/2020,Pilot Proved,56.30
+3:20:06 PM 10/8/2020,Forced Draft Fan ON,True
+3:20:09 PM 10/8/2020,Boiler Running,43.68
+3:20:09 PM 10/8/2020,Boiler Running,45.12
+3:20:09 PM 10/8/2020,Boiler Running,45.35
+3:20:14 PM 10/8/2020,Start Shutdown Purge,0.10
+3:20:14 PM 10/8/2020,Start Shutdown Purge,0.20
+3:20:14 PM 10/8/2020,Start Shutdown Purge,0.30
+3:20:14 PM 10/8/2020,Start Shutdown Purge,0.40
+3:20:14 PM 10/8/2020,Start Shutdown Purge,0.50
+3:20:15 PM 10/8/2020,Start Shutdown Purge,0.60
+3:20:15 PM 10/8/2020,Start Shutdown Purge,0.70
+3:20:15 PM 10/8/2020,Start Shutdown Purge,0.80
+3:20:15 PM 10/8/2020,Start Shutdown Purge,0.90
+3:20:15 PM 10/8/2020,Start Shutdown Purge,1.00
+3:20:15 PM 10/8/2020,Start Shutdown Purge,1.10
+3:20:15 PM 10/8/2020,Start Shutdown Purge,1.20
+3:20:15 PM 10/8/2020,Start Shutdown Purge,1.30
+3:20:15 PM 10/8/2020,Start Shutdown Purge,1.40
+3:20:15 PM 10/8/2020,Start Shutdown Purge,1.51
+3:20:16 PM 10/8/2020,Start Shutdown Purge,1.61
+3:20:16 PM 10/8/2020,Start Shutdown Purge,1.71
+3:20:16 PM 10/8/2020,Start Shutdown Purge,1.81
+3:20:16 PM 10/8/2020,Start Shutdown Purge,1.91
+3:20:16 PM 10/8/2020,Start Shutdown Purge,2.01
+3:20:16 PM 10/8/2020,Start Shutdown Purge,2.11
+3:20:16 PM 10/8/2020,Start Shutdown Purge,2.21
+3:20:16 PM 10/8/2020,Start Shutdown Purge,2.31
+3:20:16 PM 10/8/2020,Start Shutdown Purge,2.41
+3:20:16 PM 10/8/2020,Start Shutdown Purge,2.51
+3:20:17 PM 10/8/2020,Start Shutdown Purge,2.61
+3:20:17 PM 10/8/2020,Start Shutdown Purge,2.71
+3:20:17 PM 10/8/2020,Start Shutdown Purge,2.81
+3:20:17 PM 10/8/2020,Start Shutdown Purge,2.91
+3:20:17 PM 10/8/2020,Start Shutdown Purge,3.01
+3:20:17 PM 10/8/2020,Start Shutdown Purge,3.11
+3:20:17 PM 10/8/2020,Start Shutdown Purge,3.21
+3:20:17 PM 10/8/2020,Start Shutdown Purge,3.31
+3:20:17 PM 10/8/2020,Start Shutdown Purge,3.41
+3:20:17 PM 10/8/2020,Start Shutdown Purge,3.51
+3:20:18 PM 10/8/2020,Start Shutdown Purge,3.61
+3:20:18 PM 10/8/2020,Start Shutdown Purge,3.71
+3:20:18 PM 10/8/2020,Start Shutdown Purge,3.81
+3:20:18 PM 10/8/2020,Start Shutdown Purge,3.92
+3:20:18 PM 10/8/2020,Start Shutdown Purge,4.02
+3:20:18 PM 10/8/2020,Start Shutdown Purge,4.12
+3:20:18 PM 10/8/2020,Start Shutdown Purge,4.22
+3:20:18 PM 10/8/2020,Start Shutdown Purge,4.32
+3:20:18 PM 10/8/2020,Start Shutdown Purge,4.42
+3:20:18 PM 10/8/2020,Start Shutdown Purge,4.52
+3:20:19 PM 10/8/2020,Start Shutdown Purge,4.62
+3:20:19 PM 10/8/2020,Start Shutdown Purge,4.72
+3:20:19 PM 10/8/2020,Start Shutdown Purge,4.82
+3:20:19 PM 10/8/2020,Start Shutdown Purge,4.92
+3:20:19 PM 10/8/2020,Start Shutdown Purge,5.02
+3:20:19 PM 10/8/2020,Start Shutdown Purge,5.12
+3:20:19 PM 10/8/2020,Start Shutdown Purge,5.22
+3:20:19 PM 10/8/2020,Start Shutdown Purge,5.32
+3:20:19 PM 10/8/2020,Start Shutdown Purge,5.42
+3:20:19 PM 10/8/2020,Start Shutdown Purge,5.52
+3:20:20 PM 10/8/2020,Start Shutdown Purge,5.62
+3:20:20 PM 10/8/2020,Start Shutdown Purge,5.72
+3:20:20 PM 10/8/2020,Start Shutdown Purge,5.82
+3:20:20 PM 10/8/2020,Start Shutdown Purge,5.92
+3:20:20 PM 10/8/2020,Start Shutdown Purge,6.02
+3:20:20 PM 10/8/2020,Start Shutdown Purge,6.12
+3:20:20 PM 10/8/2020,Start Shutdown Purge,6.22
+3:20:20 PM 10/8/2020,Start Shutdown Purge,6.32
+3:20:20 PM 10/8/2020,Start Shutdown Purge,6.42
+3:20:20 PM 10/8/2020,Start Shutdown Purge,6.53
+3:20:21 PM 10/8/2020,Start Shutdown Purge,6.62
+3:20:21 PM 10/8/2020,Start Shutdown Purge,6.72
+3:20:21 PM 10/8/2020,Start Shutdown Purge,6.82
+3:20:21 PM 10/8/2020,Start Shutdown Purge,6.93
+3:20:21 PM 10/8/2020,Start Shutdown Purge,7.02
+3:20:21 PM 10/8/2020,Start Shutdown Purge,7.12
+3:20:21 PM 10/8/2020,Start Shutdown Purge,7.22
+3:20:21 PM 10/8/2020,Start Shutdown Purge,7.32
+3:20:21 PM 10/8/2020,Start Shutdown Purge,7.42
+3:20:21 PM 10/8/2020,Start Shutdown Purge,7.52
+3:20:22 PM 10/8/2020,Start Shutdown Purge,7.62
+3:20:22 PM 10/8/2020,Start Shutdown Purge,7.73
+3:20:22 PM 10/8/2020,Start Shutdown Purge,7.83
+3:20:22 PM 10/8/2020,Start Shutdown Purge,7.93
+3:20:22 PM 10/8/2020,Start Shutdown Purge,8.03
+3:20:22 PM 10/8/2020,Start Shutdown Purge,8.13
+3:20:22 PM 10/8/2020,Start Shutdown Purge,8.23
+3:20:22 PM 10/8/2020,Start Shutdown Purge,8.33
+3:20:22 PM 10/8/2020,Start Shutdown Purge,8.43
+3:20:22 PM 10/8/2020,Start Shutdown Purge,8.53
+3:20:23 PM 10/8/2020,Start Shutdown Purge,8.63
+3:20:23 PM 10/8/2020,Start Shutdown Purge,8.73
+3:20:23 PM 10/8/2020,Start Shutdown Purge,8.83
+3:20:23 PM 10/8/2020,Start Shutdown Purge,8.93
+3:20:23 PM 10/8/2020,Start Shutdown Purge,9.03
+3:20:23 PM 10/8/2020,Start Shutdown Purge,9.13
+3:20:23 PM 10/8/2020,Start Shutdown Purge,9.23
+3:20:23 PM 10/8/2020,Start Shutdown Purge,9.33
+3:20:23 PM 10/8/2020,Start Shutdown Purge,9.43
+3:20:23 PM 10/8/2020,Start Shutdown Purge,9.53
+3:20:24 PM 10/8/2020,Start Shutdown Purge,9.63
+3:20:24 PM 10/8/2020,Start Shutdown Purge,9.73
+3:20:24 PM 10/8/2020,Start Shutdown Purge,9.83
+3:20:24 PM 10/8/2020,Start Shutdown Purge,9.94
+3:20:24 PM 10/8/2020,Start Shutdown Purge,10.03
+3:20:24 PM 10/8/2020,Shutdown Purge Complete,10.03
+3:20:24 PM 10/8/2020,Boiler Initialized,0
+10:06:42 AM 10/10/2020,Boiler Initialized,0
+10:06:54 AM 10/10/2020,Boiler Initialized,0
+10:07:06 AM 10/10/2020,Boiler Ready,0
+10:07:11 AM 10/10/2020,Start Pre-Purge,0.10
+10:07:11 AM 10/10/2020,Start Pre-Purge,0.20
+10:07:11 AM 10/10/2020,Start Pre-Purge,0.30
+10:07:11 AM 10/10/2020,Start Pre-Purge,0.40
+10:07:11 AM 10/10/2020,Start Pre-Purge,0.50
+10:07:12 AM 10/10/2020,Start Pre-Purge,0.60
+10:07:12 AM 10/10/2020,Start Pre-Purge,0.70
+10:07:12 AM 10/10/2020,Start Pre-Purge,0.80
+10:07:12 AM 10/10/2020,Start Pre-Purge,0.90
+10:07:12 AM 10/10/2020,Start Pre-Purge,1.00
+10:07:12 AM 10/10/2020,Start Pre-Purge,1.10
+10:07:12 AM 10/10/2020,Start Pre-Purge,1.20
+10:07:12 AM 10/10/2020,Start Pre-Purge,1.30
+10:07:12 AM 10/10/2020,Start Pre-Purge,1.41
+10:07:12 AM 10/10/2020,Start Pre-Purge,1.50
+10:07:13 AM 10/10/2020,Start Pre-Purge,1.61
+10:07:13 AM 10/10/2020,Start Pre-Purge,1.71
+10:07:13 AM 10/10/2020,Start Pre-Purge,1.81
+10:07:13 AM 10/10/2020,Start Pre-Purge,1.91
+10:07:13 AM 10/10/2020,Start Pre-Purge,2.01
+10:07:13 AM 10/10/2020,Start Pre-Purge,2.11
+10:07:13 AM 10/10/2020,Start Pre-Purge,2.21
+10:07:13 AM 10/10/2020,Start Pre-Purge,2.31
+10:07:13 AM 10/10/2020,Start Pre-Purge,2.41
+10:07:13 AM 10/10/2020,Start Pre-Purge,2.51
+10:07:14 AM 10/10/2020,Start Pre-Purge,2.61
+10:07:14 AM 10/10/2020,Start Pre-Purge,2.71
+10:07:14 AM 10/10/2020,Start Pre-Purge,2.81
+10:07:14 AM 10/10/2020,Start Pre-Purge,2.91
+10:07:14 AM 10/10/2020,Start Pre-Purge,3.01
+10:07:14 AM 10/10/2020,Start Pre-Purge,3.11
+10:07:14 AM 10/10/2020,Start Pre-Purge,3.21
+10:07:14 AM 10/10/2020,Start Pre-Purge,3.31
+10:07:14 AM 10/10/2020,Start Pre-Purge,3.41
+10:07:14 AM 10/10/2020,Start Pre-Purge,3.51
+10:07:15 AM 10/10/2020,Start Pre-Purge,3.61
+10:07:15 AM 10/10/2020,Start Pre-Purge,3.71
+10:07:15 AM 10/10/2020,Start Pre-Purge,3.81
+10:07:15 AM 10/10/2020,Start Pre-Purge,3.91
+10:07:15 AM 10/10/2020,Start Pre-Purge,4.01
+10:07:15 AM 10/10/2020,Start Pre-Purge,4.11
+10:07:15 AM 10/10/2020,Start Pre-Purge,4.21
+10:07:15 AM 10/10/2020,Start Pre-Purge,4.31
+10:07:15 AM 10/10/2020,Start Pre-Purge,4.41
+10:07:15 AM 10/10/2020,Start Pre-Purge,4.51
+10:07:16 AM 10/10/2020,Start Pre-Purge,4.61
+10:07:16 AM 10/10/2020,Start Pre-Purge,4.71
+10:07:16 AM 10/10/2020,Start Pre-Purge,4.81
+10:07:16 AM 10/10/2020,Start Pre-Purge,4.91
+10:07:16 AM 10/10/2020,Start Pre-Purge,5.02
+10:07:16 AM 10/10/2020,Start Pre-Purge,5.12
+10:07:16 AM 10/10/2020,Start Pre-Purge,5.22
+10:07:16 AM 10/10/2020,Start Pre-Purge,5.32
+10:07:16 AM 10/10/2020,Start Pre-Purge,5.42
+10:07:16 AM 10/10/2020,Start Pre-Purge,5.52
+10:07:17 AM 10/10/2020,Start Pre-Purge,5.62
+10:07:17 AM 10/10/2020,Start Pre-Purge,5.72
+10:07:17 AM 10/10/2020,Start Pre-Purge,5.82
+10:07:17 AM 10/10/2020,Start Pre-Purge,5.92
+10:07:17 AM 10/10/2020,Start Pre-Purge,6.02
+10:07:17 AM 10/10/2020,Start Pre-Purge,6.12
+10:07:17 AM 10/10/2020,Start Pre-Purge,6.22
+10:07:17 AM 10/10/2020,Start Pre-Purge,6.32
+10:07:17 AM 10/10/2020,Start Pre-Purge,6.42
+10:07:17 AM 10/10/2020,Start Pre-Purge,6.52
+10:07:18 AM 10/10/2020,Start Pre-Purge,6.62
+10:07:18 AM 10/10/2020,Start Pre-Purge,6.72
+10:07:18 AM 10/10/2020,Start Pre-Purge,6.82
+10:07:18 AM 10/10/2020,Start Pre-Purge,6.92
+10:07:18 AM 10/10/2020,Start Pre-Purge,7.02
+10:07:18 AM 10/10/2020,Start Pre-Purge,7.12
+10:07:18 AM 10/10/2020,Start Pre-Purge,7.22
+10:07:18 AM 10/10/2020,Start Pre-Purge,7.32
+10:07:18 AM 10/10/2020,Start Pre-Purge,7.42
+10:07:18 AM 10/10/2020,Start Pre-Purge,7.52
+10:07:19 AM 10/10/2020,Start Pre-Purge,7.62
+10:07:19 AM 10/10/2020,Start Pre-Purge,7.72
+10:07:19 AM 10/10/2020,Start Pre-Purge,7.82
+10:07:19 AM 10/10/2020,Start Pre-Purge,7.92
+10:07:19 AM 10/10/2020,Start Pre-Purge,8.02
+10:07:19 AM 10/10/2020,Start Pre-Purge,8.13
+10:07:19 AM 10/10/2020,Start Pre-Purge,8.22
+10:07:19 AM 10/10/2020,Start Pre-Purge,8.33
+10:07:19 AM 10/10/2020,Start Pre-Purge,8.43
+10:07:19 AM 10/10/2020,Start Pre-Purge,8.53
+10:07:20 AM 10/10/2020,Start Pre-Purge,8.63
+10:07:20 AM 10/10/2020,Start Pre-Purge,8.73
+10:07:20 AM 10/10/2020,Start Pre-Purge,8.83
+10:07:20 AM 10/10/2020,Start Pre-Purge,8.93
+10:07:20 AM 10/10/2020,Start Pre-Purge,9.03
+10:07:20 AM 10/10/2020,Start Pre-Purge,9.13
+10:07:20 AM 10/10/2020,Start Pre-Purge,9.23
+10:07:20 AM 10/10/2020,Start Pre-Purge,9.33
+10:07:20 AM 10/10/2020,Start Pre-Purge,9.43
+10:07:20 AM 10/10/2020,Start Pre-Purge,9.53
+10:07:21 AM 10/10/2020,Start Pre-Purge,9.63
+10:07:21 AM 10/10/2020,Start Pre-Purge,9.73
+10:07:21 AM 10/10/2020,Start Pre-Purge,9.83
+10:07:21 AM 10/10/2020,Start Pre-Purge,9.93
+10:07:21 AM 10/10/2020,Start Pre-Purge,10.03
+10:07:21 AM 10/10/2020,Pre-Purge Complete,10.03
+10:07:32 AM 10/10/2020,Pilot ON,True
+10:07:41 AM 10/10/2020,Pilot Proved,36.97
+10:07:41 AM 10/10/2020,Pilot Proved,46.22
+10:07:41 AM 10/10/2020,Pilot Proved,56.30
+10:07:41 AM 10/10/2020,Pilot Proved,57.14
+10:07:41 AM 10/10/2020,Pilot Proved,57.98
+10:07:41 AM 10/10/2020,Pilot Proved,59.66
+10:07:44 AM 10/10/2020,Forced Draft Fan ON,True
+10:07:49 AM 10/10/2020,Boiler Running,39.90
+10:07:50 AM 10/10/2020,Boiler Running,53.32
+10:07:50 AM 10/10/2020,Boiler Running,58.08
+10:07:50 AM 10/10/2020,Boiler Running,59.28
+10:08:00 AM 10/10/2020,Start Shutdown Purge,0.10
+10:08:00 AM 10/10/2020,Start Shutdown Purge,0.20
+10:08:01 AM 10/10/2020,Start Shutdown Purge,0.30
+10:08:01 AM 10/10/2020,Start Shutdown Purge,0.40
+10:08:01 AM 10/10/2020,Start Shutdown Purge,0.50
+10:08:01 AM 10/10/2020,Start Shutdown Purge,0.60
+10:08:01 AM 10/10/2020,Start Shutdown Purge,0.70
+10:08:01 AM 10/10/2020,Start Shutdown Purge,0.80
+10:08:01 AM 10/10/2020,Start Shutdown Purge,0.91
+10:08:01 AM 10/10/2020,Start Shutdown Purge,1.00
+10:08:01 AM 10/10/2020,Start Shutdown Purge,1.11
+10:08:01 AM 10/10/2020,Start Shutdown Purge,1.21
+10:08:02 AM 10/10/2020,Start Shutdown Purge,1.31
+10:08:02 AM 10/10/2020,Start Shutdown Purge,1.41
+10:08:02 AM 10/10/2020,Start Shutdown Purge,1.52
+10:08:02 AM 10/10/2020,Start Shutdown Purge,1.61
+10:08:02 AM 10/10/2020,Start Shutdown Purge,1.71
+10:08:02 AM 10/10/2020,Start Shutdown Purge,1.82
+10:08:02 AM 10/10/2020,Start Shutdown Purge,1.92
+10:08:02 AM 10/10/2020,Start Shutdown Purge,2.02
+10:08:02 AM 10/10/2020,Start Shutdown Purge,2.12
+10:08:02 AM 10/10/2020,Start Shutdown Purge,2.22
+10:08:03 AM 10/10/2020,Start Shutdown Purge,2.32
+10:08:03 AM 10/10/2020,Start Shutdown Purge,2.42
+10:08:03 AM 10/10/2020,Start Shutdown Purge,2.52
+10:08:03 AM 10/10/2020,Start Shutdown Purge,2.62
+10:08:03 AM 10/10/2020,Start Shutdown Purge,2.72
+10:08:03 AM 10/10/2020,Start Shutdown Purge,2.82
+10:08:03 AM 10/10/2020,Start Shutdown Purge,2.92
+10:08:03 AM 10/10/2020,Start Shutdown Purge,3.02
+10:08:03 AM 10/10/2020,Start Shutdown Purge,3.12
+10:08:03 AM 10/10/2020,Start Shutdown Purge,3.22
+10:08:04 AM 10/10/2020,Start Shutdown Purge,3.32
+10:08:04 AM 10/10/2020,Start Shutdown Purge,3.42
+10:08:04 AM 10/10/2020,Start Shutdown Purge,3.52
+10:08:04 AM 10/10/2020,Start Shutdown Purge,3.62
+10:08:04 AM 10/10/2020,Start Shutdown Purge,3.72
+10:08:04 AM 10/10/2020,Start Shutdown Purge,3.82
+10:08:04 AM 10/10/2020,Start Shutdown Purge,3.92
+10:08:04 AM 10/10/2020,Start Shutdown Purge,4.02
+10:08:04 AM 10/10/2020,Start Shutdown Purge,4.12
+10:08:04 AM 10/10/2020,Start Shutdown Purge,4.23
+10:08:05 AM 10/10/2020,Start Shutdown Purge,4.33
+10:08:05 AM 10/10/2020,Start Shutdown Purge,4.43
+10:08:05 AM 10/10/2020,Start Shutdown Purge,4.53
+10:08:05 AM 10/10/2020,Start Shutdown Purge,4.63
+10:08:05 AM 10/10/2020,Start Shutdown Purge,4.73
+10:08:05 AM 10/10/2020,Start Shutdown Purge,4.83
+10:08:05 AM 10/10/2020,Start Shutdown Purge,4.93
+10:08:05 AM 10/10/2020,Start Shutdown Purge,5.03
+10:08:05 AM 10/10/2020,Start Shutdown Purge,5.13
+10:08:05 AM 10/10/2020,Start Shutdown Purge,5.23
+10:08:06 AM 10/10/2020,Start Shutdown Purge,5.33
+10:08:06 AM 10/10/2020,Start Shutdown Purge,5.43
+10:08:06 AM 10/10/2020,Start Shutdown Purge,5.53
+10:08:06 AM 10/10/2020,Start Shutdown Purge,5.63
+10:08:06 AM 10/10/2020,Start Shutdown Purge,5.73
+10:08:06 AM 10/10/2020,Start Shutdown Purge,5.83
+10:08:06 AM 10/10/2020,Start Shutdown Purge,5.93
+10:08:06 AM 10/10/2020,Start Shutdown Purge,6.03
+10:08:06 AM 10/10/2020,Start Shutdown Purge,6.13
+10:08:06 AM 10/10/2020,Start Shutdown Purge,6.23
+10:08:07 AM 10/10/2020,Start Shutdown Purge,6.33
+10:08:07 AM 10/10/2020,Start Shutdown Purge,6.43
+10:08:07 AM 10/10/2020,Start Shutdown Purge,6.53
+10:08:07 AM 10/10/2020,Start Shutdown Purge,6.63
+10:08:07 AM 10/10/2020,Start Shutdown Purge,6.73
+10:08:07 AM 10/10/2020,Start Shutdown Purge,6.83
+10:08:07 AM 10/10/2020,Start Shutdown Purge,6.93
+10:08:07 AM 10/10/2020,Start Shutdown Purge,7.03
+10:08:07 AM 10/10/2020,Start Shutdown Purge,7.13
+10:08:07 AM 10/10/2020,Start Shutdown Purge,7.23
+10:08:08 AM 10/10/2020,Start Shutdown Purge,7.33
+10:08:08 AM 10/10/2020,Start Shutdown Purge,7.44
+10:08:08 AM 10/10/2020,Start Shutdown Purge,7.54
+10:08:08 AM 10/10/2020,Start Shutdown Purge,7.63
+10:08:08 AM 10/10/2020,Start Shutdown Purge,7.73
+10:08:08 AM 10/10/2020,Start Shutdown Purge,7.84
+10:08:08 AM 10/10/2020,Start Shutdown Purge,7.94
+10:08:08 AM 10/10/2020,Start Shutdown Purge,8.04
+10:08:08 AM 10/10/2020,Start Shutdown Purge,8.14
+10:08:08 AM 10/10/2020,Start Shutdown Purge,8.24
+10:08:09 AM 10/10/2020,Start Shutdown Purge,8.34
+10:08:09 AM 10/10/2020,Start Shutdown Purge,8.44
+10:08:09 AM 10/10/2020,Start Shutdown Purge,8.54
+10:08:09 AM 10/10/2020,Start Shutdown Purge,8.64
+10:08:09 AM 10/10/2020,Start Shutdown Purge,8.74
+10:08:09 AM 10/10/2020,Start Shutdown Purge,8.84
+10:08:09 AM 10/10/2020,Start Shutdown Purge,8.94
+10:08:09 AM 10/10/2020,Start Shutdown Purge,9.04
+10:08:09 AM 10/10/2020,Start Shutdown Purge,9.14
+10:08:09 AM 10/10/2020,Start Shutdown Purge,9.24
+10:08:10 AM 10/10/2020,Start Shutdown Purge,9.34
+10:08:10 AM 10/10/2020,Start Shutdown Purge,9.44
+10:08:10 AM 10/10/2020,Start Shutdown Purge,9.54
+10:08:10 AM 10/10/2020,Start Shutdown Purge,9.64
+10:08:10 AM 10/10/2020,Start Shutdown Purge,9.74
+10:08:10 AM 10/10/2020,Start Shutdown Purge,9.84
+10:08:10 AM 10/10/2020,Start Shutdown Purge,9.95
+10:08:10 AM 10/10/2020,Start Shutdown Purge,10.04
+10:08:10 AM 10/10/2020,Shutdown Purge Complete,10.04
+10:08:10 AM 10/10/2020,Boiler Initialized,0
